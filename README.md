@@ -20,7 +20,7 @@ schemas/
 ## Installation
 
 ```bash
-go install github.com/netops2devops/getschema@latest
+go install github.com/netops2devops/crdschema@latest
 ```
 
 Or build from source:
